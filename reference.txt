@@ -1,0 +1,5 @@
+# precision
+#include <iomanip>
+float d; double e;    
+cout<<fixed<<setprecision(3)<<d<<endl;
+cout<<setprecision(9)<<e<<endl;    
